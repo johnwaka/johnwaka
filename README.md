@@ -2,7 +2,7 @@
 My name is John Wakahiu (he/him). I currently work as a Software Test Engineer at Microsoft Testing Center. I am mostly using virtualization technologies such as Hyper V and Powershell Scripting.
 
 
-## I'm a Developer and a Writer!
+## I'm a Cloud Engineer and a Writer!
 - 🔭 I’m currently working on a graphic design website for my bro!
 - :cloud: I’m currently learning Azure Cloud 
 - 👯 I’m looking to collaborate with other content creators

@@ -1,7 +1,18 @@
 <h1 align="center"> Hello, I'm John Wakahiu 👋 </h1>
 
 ### About Me
-I currently work as a Software Test Engineer at Microsoft Testing Center. I am mostly using virtualization technologies such as Hyper V and Powershell Scripting.
+I currently work as a Software Test Engineer at Microsoft Testing Center. 
+I am mostly using virtualization technologies such as Hyper V and Powershell Scripting.
+
+I do not create websites. I create experiences. 
+I create life, joy, happiness.
+Humanity - a better place on the planet.
+
+I believe in doing something awesome. 
+No matter what the project or task is, it is better to do it right.
+The perfect project is not just completed. It is done awesomely.
+
+That's me, I keep things awesome. This saves you time and money.
 
 
 ## I'm a Web developer, Cloud Engineer, and a Writer!
@@ -23,10 +34,8 @@ I currently work as a Software Test Engineer at Microsoft Testing Center. I am m
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-## Some Statistics About Me
-![John's github stats](https://github-readme-stats.vercel.app/api?username=johnwaka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
-
+  
+  
 ⭐️ From [johnwaka](https://github.com/johnwaka)
 
 ### Connect with me:

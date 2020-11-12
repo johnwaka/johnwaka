@@ -1,5 +1,7 @@
 <h1 align="center"> Hello, I'm John Wakahiu 👋 </h1>
 
+![Developer](https://github.com/johnwaka/johnwaka/blob/master/cover.jpg)
+
 ### About Me
 I currently work as a Software Test Engineer at Microsoft Testing Center. 
 I am mostly using virtualization technologies such as Hyper V and Powershell Scripting.

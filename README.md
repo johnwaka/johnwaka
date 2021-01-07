@@ -21,7 +21,7 @@ That's me, I keep things awesome. This saves you time and money.
 - 🔭 Exploring new technologies and automating manual work in my job.
 - :cloud: Learning Cloud Infrastructure and architecture. 
 - 👯 Looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn AWS and Azure. 
+- 🥅 2021 Goals: Contribute more to Open Source projects and learn AWS and Azure in depth. 
 - ⚡ Fun fact: I love to write my thoughts when I am alone.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -34,6 +34,7 @@ That's me, I keep things awesome. This saves you time and money.
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)

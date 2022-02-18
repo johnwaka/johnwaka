@@ -17,12 +17,12 @@ The perfect project is not just completed. It is done awesomely.
 That's me, I keep things awesome. This saves you time and money.
 
 
-## I'm an Engineer with a focus in Cybersecurity, Cloud engineering and Web development
-- 🔭 Exploring new technologies and automating manual work in my job.
-- :cloud: Learning Cloud Infrastructure and architecture. 
+## I'm an Engineer with a focus in Quality Assurance, Cloud engineering and Cybersecurity
+- 🔭 Exploring QA automation and Cloud DevOps.
+- :cloud: Learning AWS Cloud Infrastructure and architecture. 
 - 👯 Documenting my journey through content writing.
-- 🥅 2021 Goals: Advance cybersecurity and AWS in depth. 
-- ⚡ Fun fact: I love to write my thoughts when I am alone.
+- 🥅 2022 Goals: Getting a remote job, advance QA & DevOps skills. 
+- ⚡ Fun fact: Writing cools my brain and calms my heart.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

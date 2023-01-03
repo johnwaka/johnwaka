@@ -17,7 +17,7 @@ The perfect project is not just completed. It is done awesomely.
 That's me, I keep things awesome. This saves you time and money.
 
 
-## I'm an Engineer with a focus in Quality Assurance, Cloud engineering, and Cybersecurity
+## I'm an Engineer with a focus in Quality Assurance
 - 🔭 Exploring QA automation and Cloud DevOps.
 - 👯 Documenting my journey through content writing.
 - 🥅 2023 Goals: Advance in QA & ship more quality softwares. 

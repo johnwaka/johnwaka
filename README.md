@@ -3,12 +3,12 @@
 ![Developer](https://github.com/johnwaka/johnwaka/blob/master/cover.jpg)
 
 ### About Me
-I currently work as a Software Test Engineer at Microsoft Testing Center. 
-I am mostly using virtualization technologies such as Hyper V and Powershell Scripting.
+I currently work as a QA Engineer.
+I am mostly using virtualization technologies such as Hyper V, Powershell Scripting, Postman, and Linux.
 
-I do not create websites. I create experiences. 
+I do not create softwares. I create experiences. 
 I create life, joy, happiness.
-Humanity - a better place on the planet.
+Humanity - a better quality place on the planet.
 
 I believe in doing something awesome. 
 No matter what the project or task is, it is better to do it right.
@@ -17,11 +17,10 @@ The perfect project is not just completed. It is done awesomely.
 That's me, I keep things awesome. This saves you time and money.
 
 
-## I'm an Engineer with a focus in Quality Assurance, Cloud engineering and Cybersecurity
+## I'm an Engineer with a focus in Quality Assurance, Cloud engineering, and Cybersecurity
 - 🔭 Exploring QA automation and Cloud DevOps.
-- :cloud: Learning AWS Cloud Infrastructure and architecture. 
 - 👯 Documenting my journey through content writing.
-- 🥅 2022 Goals: Getting a remote job, advance QA & DevOps skills. 
+- 🥅 2023 Goals: Advance in QA & ship more quality softwares. 
 - ⚡ Fun fact: Writing cools my brain and calms my heart.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -34,7 +33,6 @@ That's me, I keep things awesome. This saves you time and money.
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![JAMstack](https://img.shields.io/badge/-JAMstack-333333?style=flat&logo=JAMstack)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
